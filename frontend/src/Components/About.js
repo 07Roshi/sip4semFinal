@@ -28,8 +28,8 @@ const About = () => {
                 <h2 className='acchead text-danger'>Organisation Name</h2>
               </Accordion.Header>
               <Accordion.Body className='text-center accon'>
-                <strong>RS_Lunch_Home</strong>
-                <p>Order from RS Lunch Home - get cashback worth ₹500 on order above ₹2499</p>
+                <strong>Sky is Not Limit</strong>
+                <p>Learn any course at your ease</p>
               </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="1">
@@ -38,7 +38,7 @@ const About = () => {
               </Accordion.Header>
               <Accordion.Body className='text-center accon'>
                 <p>
-                  RS Lunch Home, Opposite Adyar Garden, Banglore Highway, Manglore, Karnataka - 575007  
+                  Sky is not Limit, Opposite Adyar Garden, Banglore Highway, Manglore, Karnataka - 575007  
                 </p>
               </Accordion.Body>
             </Accordion.Item>
@@ -55,7 +55,7 @@ const About = () => {
                 <h2 className='acchead text-danger'>Email Address</h2>
               </Accordion.Header>
               <Accordion.Body className='text-center accon'>
-                rslunchhome@gmail.com
+                sky@gmail.com
               </Accordion.Body>
             </Accordion.Item>
           </Accordion>
